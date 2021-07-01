@@ -1,0 +1,63 @@
+[
+
+  {
+
+    "name": "John smith",
+
+    "email": "john.smith@gmail.com",
+
+    "mobile": "9842512345"
+
+  },
+
+  {
+
+    "name": "Alex",
+
+    "email": "Alex.gal@yahoo.com",
+
+    "mobile": "9841232451"
+
+  },
+
+  {
+
+    "name": "Peter Hunt",
+
+    "email": "floydophone@hotmail.com",
+
+    "mobile": "9846742451"
+
+  },
+
+  {
+
+    "name": "Paul O’Shannessy",
+
+    "email": "shane.mail@gmail.com",
+
+    "mobile": "9846742451"
+
+  },
+
+  {
+
+    "name": "Ryan Florence",
+
+    "email": "ryan.flouresne@hotmail.com",
+
+    "mobile": "9763412345"
+
+  },
+
+  {
+
+    "name": "Sebastian Markbage",
+
+    "email": "sebmarkbage@gmail.com",
+
+    "mobile": "9900912345"
+
+  }
+
+]
